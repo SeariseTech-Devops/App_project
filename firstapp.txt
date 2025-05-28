@@ -1,1 +1,3 @@
 this is my first file
+
+Segun here. Thank you for creating this first file.
